@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite de Inscripción">
+    <test name="Test de Verificación">
+        <classes>
+            <class name="tests.VerificarInscripcionTest"/>
+        </classes>
+    </test>
+</suite>

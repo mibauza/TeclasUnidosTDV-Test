@@ -35,7 +35,7 @@
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
-            <version>7.9.0</version> <!-- o la última disponible -->
+            <version>7.9.0</version>
             <scope>test</scope>
         </dependency>
 
@@ -44,8 +44,6 @@
             <artifactId>webdrivermanager</artifactId>
             <version>5.7.0</version>
         </dependency>
-
-
 
     </dependencies>
 </project>
